@@ -1,0 +1,586 @@
+[34mLogger started 03:53pm
+[0m[0m0001 [0m03:53pm [0mTesting the logger[0m0002 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0003 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0004 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0005 [0m03:53pm [0mFinished neighbour allocation. Took 29 milliseconds
+[0m0006 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0007 [0m03:53pm [0mFinished neighbour allocation. Took 31 milliseconds
+[0m0008 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0009 [0m03:53pm [0mFinished neighbour allocation. Took 44 milliseconds
+[0m0010 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0011 [0m03:53pm [0mFinished neighbour allocation. Took 48 milliseconds
+[0m0012 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0013 [0m03:53pm [0mFinished neighbour allocation. Took 59 milliseconds
+[0m0014 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0015 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0016 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0017 [0m03:53pm [0mFinished neighbour allocation. Took 63 milliseconds
+[0m0018 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0019 [0m03:53pm [0mFinished neighbour allocation. Took 46 milliseconds
+[0m0020 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0021 [0m03:53pm [0mFinished neighbour allocation. Took 54 milliseconds
+[0m0022 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0023 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0024 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0025 [0m03:53pm [0mFinished neighbour allocation. Took 46 milliseconds
+[0m0026 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0027 [0m03:53pm [0mFinished neighbour allocation. Took 29 milliseconds
+[0m0028 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0029 [0m03:53pm [0mFinished neighbour allocation. Took 35 milliseconds
+[0m0030 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0031 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0032 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0033 [0m03:53pm [0mFinished neighbour allocation. Took 32 milliseconds
+[0m0034 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0035 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0036 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0037 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0038 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0039 [0m03:53pm [0mFinished neighbour allocation. Took 35 milliseconds
+[0m0040 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0041 [0m03:53pm [0mFinished neighbour allocation. Took 43 milliseconds
+[0m0042 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0043 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0044 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0045 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0046 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0047 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0048 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0049 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0050 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0051 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0052 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0053 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0054 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0055 [0m03:53pm [0mFinished neighbour allocation. Took 47 milliseconds
+[0m0056 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0057 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0058 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0059 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0060 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0061 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0062 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0063 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0064 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0065 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0066 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0067 [0m03:53pm [0mFinished neighbour allocation. Took 40 milliseconds
+[0m0068 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0069 [0m03:53pm [0mFinished neighbour allocation. Took 44 milliseconds
+[0m0070 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0071 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0072 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0073 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0074 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0075 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0076 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0077 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0078 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0079 [0m03:53pm [0mFinished neighbour allocation. Took 33 milliseconds
+[0m0080 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0081 [0m03:53pm [0mFinished neighbour allocation. Took 50 milliseconds
+[0m0082 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0083 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0084 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0085 [0m03:53pm [0mFinished neighbour allocation. Took 45 milliseconds
+[0m0086 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0087 [0m03:53pm [0mFinished neighbour allocation. Took 36 milliseconds
+[0m0088 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0089 [0m03:53pm [0mFinished neighbour allocation. Took 44 milliseconds
+[0m0090 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0091 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0092 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0093 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0094 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0095 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0096 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0097 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0098 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0099 [0m03:53pm [0mFinished neighbour allocation. Took 28 milliseconds
+[0m0100 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0101 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0102 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0103 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0104 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0105 [0m03:53pm [0mFinished neighbour allocation. Took 36 milliseconds
+[0m0106 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0107 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0108 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0109 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0110 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0111 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0112 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0113 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0114 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0115 [0m03:53pm [0mFinished neighbour allocation. Took 36 milliseconds
+[0m0116 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0117 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0118 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0119 [0m03:53pm [0mFinished neighbour allocation. Took 40 milliseconds
+[0m0120 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0121 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0122 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0123 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0124 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0125 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0126 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0127 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0128 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0129 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0130 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0131 [0m03:53pm [0mFinished neighbour allocation. Took 28 milliseconds
+[0m0132 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0133 [0m03:53pm [0mFinished neighbour allocation. Took 50 milliseconds
+[0m0134 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0135 [0m03:53pm [0mFinished neighbour allocation. Took 43 milliseconds
+[0m0136 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0137 [0m03:53pm [0mFinished neighbour allocation. Took 40 milliseconds
+[0m0138 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0139 [0m03:53pm [0mFinished neighbour allocation. Took 23 milliseconds
+[0m0140 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0141 [0m03:53pm [0mFinished neighbour allocation. Took 23 milliseconds
+[0m0142 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0143 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0144 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0145 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0146 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0147 [0m03:53pm [0mFinished neighbour allocation. Took 49 milliseconds
+[0m0148 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0149 [0m03:53pm [0mFinished neighbour allocation. Took 23 milliseconds
+[0m0150 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0151 [0m03:53pm [0mFinished neighbour allocation. Took 23 milliseconds
+[0m0152 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0153 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0154 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0155 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0156 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0157 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0158 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0159 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0160 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0161 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0162 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0163 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0164 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0165 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0166 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0167 [0m03:53pm [0mFinished neighbour allocation. Took 33 milliseconds
+[0m0168 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0169 [0m03:53pm [0mFinished neighbour allocation. Took 33 milliseconds
+[0m0170 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0171 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0172 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0173 [0m03:53pm [0mFinished neighbour allocation. Took 30 milliseconds
+[0m0174 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0175 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0176 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0177 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0178 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0179 [0m03:53pm [0mFinished neighbour allocation. Took 33 milliseconds
+[0m0180 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0181 [0m03:53pm [0mFinished neighbour allocation. Took 54 milliseconds
+[0m0182 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0183 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0184 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0185 [0m03:53pm [0mFinished neighbour allocation. Took 41 milliseconds
+[0m0186 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0187 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0188 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0189 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0190 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0191 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0192 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0193 [0m03:53pm [0mFinished neighbour allocation. Took 43 milliseconds
+[0m0194 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0195 [0m03:53pm [0mFinished neighbour allocation. Took 28 milliseconds
+[0m0196 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0197 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0198 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0199 [0m03:53pm [0mFinished neighbour allocation. Took 34 milliseconds
+[0m0200 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0201 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0202 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0203 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0204 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0205 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0206 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0207 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0208 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0209 [0m03:53pm [0mFinished neighbour allocation. Took 34 milliseconds
+[0m0210 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0211 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0212 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0213 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0214 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0215 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0216 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0217 [0m03:53pm [0mFinished neighbour allocation. Took 34 milliseconds
+[0m0218 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0219 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0220 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0221 [0m03:53pm [0mFinished neighbour allocation. Took 54 milliseconds
+[0m0222 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0223 [0m03:53pm [0mFinished neighbour allocation. Took 45 milliseconds
+[0m0224 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0225 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0226 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0227 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0228 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0229 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0230 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0231 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0232 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0233 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0234 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0235 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0236 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0237 [0m03:53pm [0mFinished neighbour allocation. Took 61 milliseconds
+[0m0238 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0239 [0m03:53pm [0mFinished neighbour allocation. Took 54 milliseconds
+[0m0240 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0241 [0m03:53pm [0mFinished neighbour allocation. Took 45 milliseconds
+[0m0242 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0243 [0m03:53pm [0mFinished neighbour allocation. Took 49 milliseconds
+[0m0244 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0245 [0m03:53pm [0mFinished neighbour allocation. Took 52 milliseconds
+[0m0246 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0247 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0248 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0249 [0m03:53pm [0mFinished neighbour allocation. Took 78 milliseconds
+[0m0250 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0251 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0252 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0253 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0254 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0255 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0256 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0257 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0258 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0259 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0260 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0261 [0m03:53pm [0mFinished neighbour allocation. Took 61 milliseconds
+[0m0262 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0263 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0264 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0265 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0266 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0267 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0268 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0269 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0270 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0271 [0m03:53pm [0mFinished neighbour allocation. Took 41 milliseconds
+[0m0272 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0273 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0274 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0275 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0276 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0277 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0278 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0279 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0280 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0281 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0282 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0283 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0284 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0285 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0286 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0287 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0288 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0289 [0m03:53pm [0mFinished neighbour allocation. Took 50 milliseconds
+[0m0290 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0291 [0m03:53pm [0mFinished neighbour allocation. Took 29 milliseconds
+[0m0292 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0293 [0m03:53pm [0mFinished neighbour allocation. Took 54 milliseconds
+[0m0294 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0295 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0296 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0297 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0298 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0299 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0300 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0301 [0m03:53pm [0mFinished neighbour allocation. Took 52 milliseconds
+[0m0302 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0303 [0m03:53pm [0mFinished neighbour allocation. Took 45 milliseconds
+[0m0304 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0305 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0306 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0307 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0308 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0309 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0310 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0311 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0312 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0313 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0314 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0315 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0316 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0317 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0318 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0319 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0320 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0321 [0m03:53pm [0mFinished neighbour allocation. Took 55 milliseconds
+[0m0322 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0323 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0324 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0325 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0326 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0327 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0328 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0329 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0330 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0331 [0m03:53pm [0mFinished neighbour allocation. Took 43 milliseconds
+[0m0332 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0333 [0m03:53pm [0mFinished neighbour allocation. Took 59 milliseconds
+[0m0334 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0335 [0m03:53pm [0mFinished neighbour allocation. Took 52 milliseconds
+[0m0336 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0337 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0338 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0339 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0340 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0341 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0342 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0343 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0344 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0345 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0346 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0347 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0348 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0349 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0350 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0351 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0352 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0353 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0354 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0355 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0356 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0357 [0m03:53pm [0mFinished neighbour allocation. Took 52 milliseconds
+[0m0358 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0359 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0360 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0361 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0362 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0363 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0364 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0365 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0366 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0367 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0368 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0369 [0m03:53pm [0mFinished neighbour allocation. Took 49 milliseconds
+[0m0370 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0371 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0372 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0373 [0m03:53pm [0mFinished neighbour allocation. Took 44 milliseconds
+[0m0374 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0375 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0376 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0377 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0378 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0379 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0380 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0381 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0382 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0383 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0384 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0385 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0386 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0387 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0388 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0389 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0390 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0391 [0m03:53pm [0mFinished neighbour allocation. Took 42 milliseconds
+[0m0392 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0393 [0m03:53pm [0mFinished neighbour allocation. Took 50 milliseconds
+[0m0394 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0395 [0m03:53pm [0mFinished neighbour allocation. Took 52 milliseconds
+[0m0396 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0397 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0398 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0399 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0400 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0401 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0402 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0403 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0404 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0405 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0406 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0407 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0408 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0409 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0410 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0411 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0412 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0413 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0414 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0415 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0416 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0417 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0418 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0419 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0420 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0421 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0422 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0423 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0424 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0425 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0426 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0427 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0428 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0429 [0m03:53pm [0mFinished neighbour allocation. Took 41 milliseconds
+[0m0430 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0431 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0432 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0433 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0434 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0435 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0436 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0437 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0438 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0439 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0440 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0441 [0m03:53pm [0mFinished neighbour allocation. Took 49 milliseconds
+[0m0442 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0443 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0444 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0445 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m0446 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0447 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0448 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0449 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0450 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0451 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0452 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0453 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0454 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0455 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0456 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0457 [0m03:53pm [0mFinished neighbour allocation. Took 35 milliseconds
+[0m0458 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0459 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0460 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0461 [0m03:53pm [0mFinished neighbour allocation. Took 50 milliseconds
+[0m0462 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0463 [0m03:53pm [0mFinished neighbour allocation. Took 35 milliseconds
+[0m0464 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0465 [0m03:53pm [0mFinished neighbour allocation. Took 55 milliseconds
+[0m0466 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0467 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0468 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0469 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0470 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0471 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0472 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0473 [0m03:53pm [0mFinished neighbour allocation. Took 37 milliseconds
+[0m0474 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0475 [0m03:53pm [0mFinished neighbour allocation. Took 45 milliseconds
+[0m0476 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0477 [0m03:53pm [0mFinished neighbour allocation. Took 45 milliseconds
+[0m0478 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0479 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0480 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0481 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0482 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0483 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0484 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0485 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0486 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0487 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0488 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0489 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0490 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0491 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0492 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0493 [0m03:53pm [0mFinished neighbour allocation. Took 50 milliseconds
+[0m0494 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0495 [0m03:53pm [0mFinished neighbour allocation. Took 40 milliseconds
+[0m0496 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0497 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0498 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0499 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0500 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0501 [0m03:53pm [0mFinished neighbour allocation. Took 24 milliseconds
+[0m0502 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0503 [0m03:53pm [0mFinished neighbour allocation. Took 41 milliseconds
+[0m0504 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0505 [0m03:53pm [0mFinished neighbour allocation. Took 49 milliseconds
+[0m0506 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0507 [0m03:53pm [0mFinished neighbour allocation. Took 47 milliseconds
+[0m0508 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0509 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0510 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0511 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0512 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0513 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0514 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0515 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0516 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0517 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0518 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0519 [0m03:53pm [0mFinished neighbour allocation. Took 44 milliseconds
+[0m0520 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0521 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0522 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0523 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0524 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0525 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0526 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0527 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0528 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0529 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0530 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0531 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0532 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0533 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0534 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0535 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0536 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0537 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0538 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0539 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0540 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0541 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0542 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0543 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0544 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0545 [0m03:53pm [0mFinished neighbour allocation. Took 25 milliseconds
+[0m0546 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0547 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0548 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0549 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0550 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0551 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0552 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0553 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0554 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0555 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0556 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0557 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0558 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0559 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0560 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0561 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0562 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0563 [0m03:53pm [0mFinished neighbour allocation. Took 27 milliseconds
+[0m0564 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0565 [0m03:53pm [0mFinished neighbour allocation. Took 26 milliseconds
+[0m0566 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0567 [0m03:53pm [0mFinished neighbour allocation. Took 39 milliseconds
+[0m0568 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0569 [0m03:53pm [0mFinished neighbour allocation. Took 59 milliseconds
+[0m0570 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0571 [0m03:53pm [0mFinished neighbour allocation. Took 42 milliseconds
+[0m0572 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0573 [0m03:53pm [0mFinished neighbour allocation. Took 49 milliseconds
+[0m0574 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0575 [0m03:53pm [0mFinished neighbour allocation. Took 27 milliseconds
+[0m0576 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0577 [0m03:53pm [0mFinished neighbour allocation. Took 27 milliseconds
+[0m0578 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0579 [0m03:53pm [0mFinished neighbour allocation. Took 42 milliseconds
+[0m0580 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0581 [0m03:53pm [0mFinished neighbour allocation. Took 38 milliseconds
+[0m0582 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0583 [0m03:53pm [0mFinished neighbour allocation. Took 27 milliseconds
+[0m0584 [0m03:53pm [0mStarting particle neighbour allocation.
+[0m0585 [0m03:53pm [0mFinished neighbour allocation. Took 51 milliseconds
+[0m
