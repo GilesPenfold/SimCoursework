@@ -57,11 +57,6 @@ SPHGrid::SPHGrid(int _numParticles, ngl::Vec3 _dim, float _cellSize)
     // Set the position of our simulation to the origin
     m_pos = ngl::Vec3(0,0,0);
 
-    // Define the gravity of our particles
-    //p.m_Gravity = -9.8f;
-
-
-
     frame = 1;
     maxFrame = 700;
 
@@ -71,7 +66,7 @@ SPHGrid::SPHGrid(int _numParticles, ngl::Vec3 _dim, float _cellSize)
 
     m_vao.reset( ngl::VAOFactory::createVAO(ngl::simpleVAO,GL_POINTS));
 
-    // Setup our map
+    // Setup our map for neighbourhood searching
     for(int x = 0; x < _dim.m_x/_cellSize; x++)
     {
         for(int y = 0; y < _dim.m_y/_cellSize; y++)
@@ -86,7 +81,7 @@ SPHGrid::SPHGrid(int _numParticles, ngl::Vec3 _dim, float _cellSize)
 
 
 
-
+    // Initialise all of our particles
     for(size_t i=0; i<m_NumParticles; ++i)
     {
         // Initial Setup of Particles
@@ -483,7 +478,10 @@ void SPHGrid::MoveNeighbours(int _ParticleID, ngl::Vec3 _dir)
 }
 
 
-
+///
+/// \brief SPHGrid::CalcDensity
+/// \param _ParticleID
+/// Calculate the density for a given particle
 void SPHGrid::CalcDensity(int _ParticleID)
 {
     SPHParticle* P = &m_Particles[_ParticleID];
@@ -516,7 +514,10 @@ void SPHGrid::CalcDensity(int _ParticleID)
 
 }
 
-
+///
+/// \brief SPHGrid::CalcPressure
+/// \param _ParticleID
+/// Calculate the pressure force, viscosity and surface tension for each particle of a given id
 void SPHGrid::CalcPressure(int _ParticleID)
 {
 
@@ -561,10 +562,10 @@ void SPHGrid::CalcPressure(int _ParticleID)
             P->m_acc.m_y = P->m_acc.m_y * temp;
             P->m_acc.m_z = P->m_acc.m_z * temp;
 
+            // Surface Tension
+
             float k2r2 = SVar.m_Kernel2-relativeDistance2;
             float colourAdv = relativeDistance2 - (3/4) * k2r2;
-
-            // Surface Tension
 
             temp = -1 * SVar.m_Poly6Grad * vis * k2r2*k2r2;
             tension += SVar.m_Poly6Lap * vis * k2r2 * colourAdv;
